@@ -12,7 +12,7 @@ Check out the latest [API documentation](https://dev.zilliqa.com/).
 composer require defser/zilliqa-laravel
 ```
 
-![architecture diagram](https://repository-images.githubusercontent.com/406884140/97e14f9a-7332-479c-911e-33efd4804d43 "Zilliqa architecture")
+![architecture diagram](https://github.com/defser/zilliqa-laravel/raw/main/assets/ArchitectureDiagramm.png "Zilliqa Laravel architecture")
 
 ### Documentation
 
