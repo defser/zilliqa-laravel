@@ -1,6 +1,6 @@
 # Zilliqa-Laravel
 
-[![CircleCI](https://circleci.com/gh/defser/zilliqa-laravel/tree/master.svg?style=svg)](https://circleci.com/gh/defser/zilliqa-laravel/tree/master)
+[![CircleCI](https://circleci.com/gh/defser/zilliqa-laravel/tree/main.svg?style=svg)](https://circleci.com/gh/defser/zilliqa-laravel/tree/main)
 
 is a Laravel SDK wrapper for the Zilliqa PHP client that interacts with the Zilliqa blockchain. [Zilliqa PHP](https://github.com/defser/zilliqa-php) is a typed PHP-7.1+ interface to [Zilliqa JSON-RPC API](https://dev.zilliqa.com/docs/apis/api-introduction).
 
