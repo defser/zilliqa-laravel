@@ -1,0 +1,43 @@
+{
+  "name": "defser/zilliqa-laravel",
+  "description": "Laravel SDK wrapper for the PHP API client that interacts with the Zilliqa blockchain.",
+  "keywords": ["laravel", "php", "api", "sdk", "wrapper", "zil", "zilliqa", "blockchain", "token", "contracts"],
+  "license": "MIT",
+  "homepage": "https://github.com/defser/zilliqa-laravel",
+  "authors": [
+    {
+      "name": "Patrick Falize",
+      "email": "info@defser.nl"
+    }
+  ],
+  "require": {
+    "php": ">=7.1",
+    "defser/zilliqa-php": "^1.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Defser\\ZilliqaLaravel\\": "src/"
+    }
+  },
+  "autoload-dev": {
+    "psr-4": {
+      "Defser\\ZilliqaLaravel\\Test\\": "tests"
+    }
+  },
+  "scripts": {
+    "test": "vendor/bin/phpunit"
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^8.0"
+  },
+  "config": {
+    "sort-packages": true
+  },
+  "extra": {
+    "laravel": {
+      "providers": [
+        "Defser\\ZilliqaLaravel\\ZilliqaLaravelServiceProvider"
+      ]
+    }
+  }
+}
