@@ -16,7 +16,7 @@ composer require defser/zilliqa-laravel
 
 ### Documentation
 
-The documentation is available at [zilliqa-php.org/laravel](http://zilliqa-php.org/laravel).
+The documentation is available at [zilliqa-php.org](http://zilliqa-php.org/).
 
 ### 🤝 Supporting
 
